@@ -84,3 +84,14 @@ Based on the data analysis and feature importances, the following interventions 
 1. **Early Attendance Warnings**: Since `absences` is the leading non-academic predictor of grade decline, schools should flag students as soon as they exceed 5 absences in a term.
 2. **Prioritize Mid-term Intervention**: `G2` is highly predictive of `G3`. Students showing a declining trend or scoring below 10 in `G2` should be immediately paired with peer tutors or academic counseling.
 3. **Monitor Past Failure History**: Students entering a course with a history of `failures` are at high risk. Diagnostic tests at the start of the year can help tailor support before `G1` grades are finalized.
+
+
+---
+
+## Author
+
+> **Aakash Kushwah**
+
+> **GitHub: [aakashsinghrajawat75](https://github.com/aakashsinghrajawat75)**
+
+---
